@@ -263,7 +263,7 @@ function CafeMenuSection() {
   const menuItems = {
     coffee: [
       {
-        image: '/src/image/espresso.jpg',
+        image: '/image/espresso.jpg',
         title: 'Signature Espresso',
         description: 'Rich and bold espresso shot with perfect crema, made from our premium blend beans',
         price: '25K',
@@ -272,7 +272,7 @@ function CafeMenuSection() {
         isPopular: true
       },
       {
-        image: '/src/image/caramel.jpg',
+        image: '/image/caramel.jpg',
         title: 'Caramel Macchiato',
         description: 'Smooth espresso with steamed milk, vanilla syrup and caramel drizzle',
         price: '35K',
@@ -281,7 +281,7 @@ function CafeMenuSection() {
         isPopular: true
       },
       {
-        image: '/src/image/ice.jpg',
+        image: '/image/ice.jpg',
         title: 'Iced Americano',
         description: 'Refreshing cold brew with ice, perfect for hot weather coffee lovers',
         price: '28K',
@@ -290,7 +290,7 @@ function CafeMenuSection() {
         isPopular: false
       },
       {
-        image: '/src/image/matcha.jpg',
+        image: '/image/matcha.jpg',
         title: 'Matcha Latte',
         description: 'Premium Japanese matcha powder with steamed milk and light sweetness',
         price: '32K',
@@ -299,7 +299,7 @@ function CafeMenuSection() {
         isPopular: false
       },
       {
-        image: '/src/image/cappuc.jpg',
+        image: '/image/cappuc.jpg',
         title: 'Cappuccino',
         description: 'Classic Italian coffee with equal parts espresso, steamed milk and foam',
         price: '30K',
@@ -308,7 +308,7 @@ function CafeMenuSection() {
         isPopular: false
       },
       {
-        image: '/src/image/frap.jpg',
+        image: '/image/frap.jpg',
         title: 'Frappuccino',
         description: 'Blended iced coffee with whipped cream and your choice of flavor',
         price: '38K',
@@ -319,7 +319,7 @@ function CafeMenuSection() {
     ],
     pastry: [
       {
-        image: '/src/image/croisssant.jpg',
+        image: '/image/croisssant.jpg',
         title: 'Fresh Croissant',
         description: 'Buttery, flaky pastry baked fresh daily, perfect with your morning coffee',
         price: '18K',
@@ -328,7 +328,7 @@ function CafeMenuSection() {
         isPopular: true
       },
       {
-        image: '/src/image/blue.jpg',
+        image: '/image/blue.jpg',
         title: 'Blueberry Muffin',
         description: 'Moist and fluffy muffin packed with fresh blueberries',
         price: '22K',
@@ -337,7 +337,7 @@ function CafeMenuSection() {
         isPopular: false
       },
       {
-        image: '/src/image/cokocip.jpg',
+        image: '/image/cokocip.jpg',
         title: 'Chocolate Chip Cookie',
         description: 'Warm, gooey cookies with premium chocolate chips',
         price: '15K',
@@ -346,7 +346,7 @@ function CafeMenuSection() {
         isPopular: true
       },
       {
-        image: '/src/image/bagel.jpg',
+        image: '/image/bagel.jpg',
         title: 'Everything Bagel',
         description: 'Toasted bagel with cream cheese and everything seasoning',
         price: '25K',
@@ -357,7 +357,7 @@ function CafeMenuSection() {
     ],
     food: [
       {
-        image: '/src/image/sand.jpg',
+        image: '/image/sand.jpg',
         title: 'Club Sandwich',
         description: 'Triple-layered sandwich with chicken, bacon, lettuce and tomato',
         price: '45K',
@@ -366,7 +366,7 @@ function CafeMenuSection() {
         isPopular: true
       },
       {
-        image: '/src/image/nasgor.jpg',
+        image: '/image/nasgor.jpg',
         title: 'Nasi Goreng',
         description: 'Friend Rice Special recipe from java',
         price: '20K',
@@ -375,7 +375,7 @@ function CafeMenuSection() {
         isPopular: false
       },
       {
-        image: '/src/image/salad.jpg',
+        image: '/image/salad.jpg',
         title: 'Caesar Salad',
         description: 'Fresh romaine lettuce with caesar dressing, croutons and parmesan',
         price: '38K',
@@ -384,7 +384,7 @@ function CafeMenuSection() {
         isPopular: false
       },
       {
-        image: '🌯',
+        image:  '/image/taco.jpg',
         title: 'Chicken Wrap',
         description: 'Grilled chicken with vegetables wrapped in soft tortilla',
         price: '35K',
@@ -395,7 +395,7 @@ function CafeMenuSection() {
     ],
     dessert: [
       {
-        image: '/src/image/tiramisu.jpg',
+        image: '/image/tiramisu.jpg',
         title: 'Tiramisu',
         description: 'Classic Italian dessert with coffee-soaked ladyfingers and mascarpone',
         price: '35K',
@@ -404,7 +404,7 @@ function CafeMenuSection() {
         isPopular: true
       },
       {
-        image: '/src/image/straw.jpg',
+        image: '/image/straw.jpg',
         title: 'Chocolate Lava Cake',
         description: 'Warm chocolate cake with molten center, served with vanilla ice cream',
         price: '32K',
@@ -413,7 +413,7 @@ function CafeMenuSection() {
         isPopular: true
       },
       {
-        image: '/src/image/risol.jpg',
+        image: '/image/risol.jpg',
         title: 'Gorengan',
         description: 'gorengan tradisional Indonesia, cocok untuk teman ngopi',
         price: '10K',
@@ -422,7 +422,7 @@ function CafeMenuSection() {
         isPopular: false
       },
       {
-        image: '/src/image/pie.jpg',
+        image: '/image/pie.jpg',
         title: 'Apple Pie',
         description: 'Homemade apple pie with cinnamon and flaky crust',
         price: '30K',
