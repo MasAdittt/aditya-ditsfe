@@ -109,7 +109,7 @@ function CafeNavbar() {
               <div className="pt-4 border-t border-amber-100 space-y-3">
                 <div className="flex items-center space-x-3 text-amber-700 px-4">
                   <MapPin size={16} />
-                  <span className="text-sm">Jl. Kopi Nikmat No. 123, Jakarta</span>
+                  <span className="text-sm"> Komplek Pertokoan Central Park, Jl. Kabupaten Badung, Bali 80361</span>
                 </div>
                 <div className="flex items-center space-x-3 text-amber-700 px-4">
                   <Phone size={16} />
